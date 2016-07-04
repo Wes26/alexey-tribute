@@ -1,0 +1,62 @@
+body {
+  padding-top: 60px;
+}
+
+@media (max-width: 960px) {
+  .container width: auto .column float: none
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin: 30px auto;
+}
+
+.name {
+  color: #f24816;
+}
+
+body {
+  margin: 60px;
+}
+
+.developer {
+  border-radius: 50%;
+  border-color: #f24816;
+  border-width: 9px;
+  border-style: solid;
+  width: 20%;
+  display: block;
+  margin: 0 auto;
+}
+
+.blurb {
+  max-width: 900px;
+  padding: 0px 15px;
+  margin: 40px auto;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+}
+
+.kicker {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+h3 {
+  font-size: 19px;
+  font-weight: 300;
+  max-width: 900px;
+  margin: 10px auto;
+}
+
+.wiki {
+  letter-spacing: 1.5px;
+  color: #f24816
+}
+
+.video {
+  letter-spacing: 1.5px;
+  color: #f24816
+}
